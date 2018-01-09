@@ -24,6 +24,7 @@ To install the latest development version from github:
  
 
 
+The R interface is based on the [JSON API](http://jsonapi.org/) described on [SwaggerHub](https://app.swaggerhub.com/apis/FAIRDOM/SEEK/0.1#/yellow_pages/project).
 If you find issues, please [let us know](https://github.com/blasern/fairdomhubr/issues). 
 
 If you would like to contribute, please [create a pull request](https://github.com/blasern/fairdomhubr/compare).
